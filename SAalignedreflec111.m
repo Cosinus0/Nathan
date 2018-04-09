@@ -43,6 +43,7 @@ title('thin ISM9-1 samples with PMMA arm length of 1:1:2.2')
 legend('87(as-prepared)','85(TAed)','86(SVAed)')
 
 hold off
+
 %%
 %select dat11,data22 and data33 by brush tool in the figure from the very
 %linear section of the reflectivity curves
